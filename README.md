@@ -9,8 +9,10 @@ pkg install wget
 
 pkg install curl
 
-git clone https://github.com/Hozo999/UBUNTU999/edit/main/README.md
+git clone https://github.com/Hozo999/UBUNTU999
 
-cd
+cd UBUNTU999
 
-bash 
+chmod 777 UBUNTU999.sh
+
+bash UBUNTU999.sh
